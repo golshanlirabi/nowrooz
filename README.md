@@ -8,3 +8,4 @@ out plan for nowrooz
 | ----------- | ----------- |
 | 1    | something     |
 | 2  | someone    |
+to know more nowrooz click here https://en.wikipedia.org/wiki/Nowruz
